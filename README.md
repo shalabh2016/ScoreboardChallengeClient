@@ -1,0 +1,2 @@
+# ScoreboardChallengeClient
+Scoreboard Challenge Client
