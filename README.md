@@ -1,4 +1,4 @@
-# Scoreboar Challenge: Client Side
+# Scoreboard Challenge: Client Side
 
 Steps to start:
 
